@@ -27,7 +27,3 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 <img src="https://img.shields.io/badge/RESTful APIs-02569B?style=flat-square&logo=api&logoColor=white" alt="RESTful APIs"/>
 </p>
-has context menu
-
-
-has context menu
